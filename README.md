@@ -1,4 +1,4 @@
-# CLASICAL-SYNCHRONIZATION-BARBER-PROBLEM-
+# CLASSICAL-SYNCHRONIZATION-BARBER-PROBLEM-
 The sleeping barber problem is a classic inter-process communication and synchronization problem that illustrates the complexities that arise when there are multiple operating system processes. The problem was originally proposed in 1965 by computer science pioneer Edsger Dijkstra,who used it to make the point that general semaphores are often superfluous.
 
 Imagine a hypothetical barbershop with one barber, one barber chair, and a waiting room with n chairs (n may be 0) for waiting customers. The following rules apply:
